@@ -1,6 +1,8 @@
 🎉 The Plant Disease Prediction App is a machine learning-based application designed to identify plant diseases from images.
     It leverages deep learning models to analyze leaf images and predict the presence of various plant diseases, 
-    helping farmers and gardeners take timely action to protect their 
+    helping farmers and gardeners take timely action to protect their Crops.
+
+    
 🎯 Feature:
    * Image-based Disease Detection: Upload an image of a plant leaf, and the model predicts the disease.
 
@@ -23,9 +25,9 @@ Snapshots:
 
    * Frontend: Streamlit
 
-   * Dataset: PlantVillage dataset 
+   * Dataset: PlantVillage dataset
+     
 🎯 Prerequisites:
-
    * Python 3.x
 
    * TensorFlow/Keras or PyTorch
@@ -35,8 +37,8 @@ Snapshots:
    * OpenCV, NumPy, Pandas
 
    * Matplotlib (for visualization)
+     
 🎯 Usage:
-
    * Open the application in your browser or mobile app.
 
    * Upload an image of a plant leaf.
